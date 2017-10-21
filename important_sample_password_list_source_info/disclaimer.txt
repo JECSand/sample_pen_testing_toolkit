@@ -1,0 +1,10 @@
+     
+Disclaimer and License
+
+    These lists are for LAWFUL, ETHICAL AND EDUCATIONAL PURPOSES ONLY.
+    The files contained in this repository are released "as is" without warranty, support, or guarantee of effectiveness.
+    However, I am open to hearing about any issues found within these files and will be actively maintaining this repository for the foreseeable future. If you find anything noteworthy, let me know and I'll see what I can do about it.
+
+The author did not steal, phish, deceive or hack in any way to get hold of these passwords. All lines in these files were obtained through freely available means.
+
+The author's intent for this project is to provide information on insecure passwords in order to increase overall password security. The lists will show you what passwords are the most common, what patterns are the most common, and what you should avoid when making
